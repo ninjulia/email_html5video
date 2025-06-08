@@ -2,7 +2,7 @@
 
 Starter file for responsive email featuring an embedded video via HTML5 player. While the majority of email clients still do not support playing video directly from your inbox, both Apple Mail and the native Samsung email client do - and both represent a large segment of the email client market. To cover all email clients, however, fall-back code is added providing alternative content. Here, an animated gif fall-back indicated a user should click through to see the video using their browser. To get started, I followed the Email on Acid guide [How to Embed HTML5 Video in Emails | And Your Other Options](https://www.emailonacid.com/blog/article/email-development/a_how_to_guide_to_embedding_html5_video_in_email/).
 
-I created the design for this email as part of a larger eLearning series for IT Software-as-a-Service company. You can read more about the project on [my design portfolio site](https://www.becausejulia.com/design/elearning/) Here, I've replaced the copy and edited the video to remove any proprietary information / logos.
+I created the design for this email as part of a larger eLearning series for IT Software-as-a-Service company. You can read more about the project on [my design portfolio site](https://www.becausejulia.com/design/elearn/) Here, I've replaced the copy and edited the video to remove any proprietary information / logos.
 
 The email showcased here was coded from scratch utilizing my email boilerplate framework (developed from Email on Acid and Litmus.com samples as a starting point). Email on Acid Tests passing in 44 popular mobile, web, and desktop email clients/devices as of August, 2021. All copyrights and trademarks remain property of their respective owners.
 
